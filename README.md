@@ -1,2 +1,2 @@
 # Course-Coursera
-This is my project for de module 2.
+This is my project for the module 2.
