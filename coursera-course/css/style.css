@@ -24,7 +24,7 @@ section{
   font-size: 30px;
  font-style: italic;
  float: right;
-
+float: top;
 }
 
 @media (min-width: 992px)
