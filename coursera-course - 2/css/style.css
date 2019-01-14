@@ -1,0 +1,19 @@
+*{
+  box-sizing: border-box;
+}
+
+.row{
+  width: 100%;
+}
+
+#dd{
+margin: 15px;
+font-style: italic;
+background-color: #336699;
+border: 1px solid black;
+width: 100%
+}
+#d,#s,#h{
+  border: 1px solid black;
+  background-color: grey;
+}
