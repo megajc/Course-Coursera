@@ -1,7 +1,9 @@
 *{
   box-sizing: border-box;
 }
-
+body{
+background-color: grey;
+}
 .row{
   width: 100%;
 }
