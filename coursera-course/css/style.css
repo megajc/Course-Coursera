@@ -24,7 +24,7 @@ p{
 section{
   font-size: 30px;
  font-style: italic;
- text-aling: center;
+ text-align: center
 }
 
 @media (min-width: 992px)
