@@ -16,7 +16,6 @@ background-color: #ebebe0;
 p{
   border: 1px solid black;
   background-color: red;
-  aling: center;
   clear: both;
 
 
@@ -25,8 +24,7 @@ p{
 section{
   font-size: 30px;
  font-style: italic;
- float: right;
-float: top;
+ text-aling: center;
 }
 
 @media (min-width: 992px)
